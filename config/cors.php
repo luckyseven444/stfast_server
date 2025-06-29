@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => [env('FRONTEND_URL', 'https://stfast-front.onrender.com/')],
+    'allowed_origins' => [env('FRONTEND_URL', 'https://stfast-front.onrender.com')],
 
     'allowed_origins_patterns' => [],
 
